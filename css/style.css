@@ -1,0 +1,13 @@
+body {
+  background-color: blue;
+}
+.titulo{
+  font-size: 1em;
+  color: red;
+}
+.conteudo{
+  position: absolute;
+  background-color: white;
+  top: 50%;
+  width: 100%;
+}
