@@ -1,3 +1,4 @@
 # Fintech2022_1
 Projeto Inicial da Fintech Mara App
-Tela 1 e tela 2 do Mara App com algumas alteracoes do prototipo inicial.
+Tela index e tela saldo do Mara App com algumas alteracoes do prototipo inicial.
+Clicar em saldo para navegar na proxima pagina
